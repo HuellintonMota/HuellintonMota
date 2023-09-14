@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: motahuellinton@gmail.com
 - 📷 Instagram: @huellinton.idxd
-- 🐤 Twitter: @IndioXD_
+- ❎ X: @IndioXD_
 - 🏗️ LinkedIn: /huellinton-mota
 
 <!---
