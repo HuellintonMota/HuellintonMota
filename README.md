@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuellintonMota
 - 👀 I’m interested in studying new languages to improve my skills.
-- 🌱 I’m currently learning <b>Python</b> 🐍 and <b>Flutter</b>
+- 🌱 I’m currently learning <b>Python</b>, <b>Flutter</b> and <b>Node.JS</b>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: motahuellinton@gmail.com
 - 📷 Instagram: @huellinton.idxd
