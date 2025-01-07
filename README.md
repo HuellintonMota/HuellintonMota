@@ -5,7 +5,7 @@
 - 📫 How to reach me: motahuellinton@gmail.com
 - 📷 Instagram: @huellinton.idxd
 - ❎ X: @IndioXD_
-- 🏗️ LinkedIn: /huellinton-mota
+- 🏗️ LinkedIn: in/huellinton-mota
 
 <!---
 HuellintonMota/HuellintonMota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
